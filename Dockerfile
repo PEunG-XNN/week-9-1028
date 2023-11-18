@@ -6,3 +6,5 @@
  EXPOSE 5000
  ENTRYPOINT ["flask", "run"]
  CMD ["--host=0.0.0.0"]
+
+
